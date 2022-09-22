@@ -2,3 +2,4 @@
 
 * **[English](https://github.com/inancgumus/learngo)**
 * **[Spanish](spanish/README.md)**
+* **[French](french/README.md)**
